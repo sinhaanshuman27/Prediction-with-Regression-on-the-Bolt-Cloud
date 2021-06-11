@@ -1,4 +1,4 @@
-#Setup  
+# Setup  
   
 Step 1: Insert one lead of the LDR into the Bolt Module's 3v3 Pin.  
 ![image](https://user-images.githubusercontent.com/72242597/121618822-211de300-ca85-11eb-9e68-cd90ef1465ba.png)
